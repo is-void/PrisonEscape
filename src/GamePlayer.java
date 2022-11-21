@@ -314,7 +314,7 @@ public class GamePlayer
 			{
 				System.out.println("A good idea, but there is a better way to destroy the generator.");			}
 		}
-		if(getRoom().contentEquals("Backup Generator"))
+		if(getRoom().contentEquals("Unlocked Backup Generator"))
 		{
 			if(inventory[item] == "Crabapple Juice")
 			{
